@@ -31,7 +31,7 @@
 <p align="left">
   <a
     href="https://linkedin.com/in/yash-khamkar-6727821aa"
-    target="blank"
+    target="__blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -39,7 +39,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.codechef.com/users/yashkhamkar" target="blank"
+  <a href="https://www.codechef.com/users/yashkhamkar" target="__blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
@@ -47,7 +47,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://codeforces.com/profile/yashkhamkar1100" target="blank"
+  <a href="https://codeforces.com/profile/yashkhamkar1100" target="__blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
@@ -55,7 +55,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.leetcode.com/xash" target="blank"
+  <a href="https://www.leetcode.com/xash" target="__blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
