@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/yash-khamkar-6727821aa/"
+    href="https://linkedin.com/in/yash-khamkar-6727821aa"
     target="blank"
     ><img
       align="center"
