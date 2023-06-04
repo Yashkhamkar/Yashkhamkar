@@ -18,7 +18,7 @@
 
 <li>🌱 I’m currently learning Blockchain technologies</li>
 <li>👯 I’m looking to collaborate on MERN stack and springboot projects</li>
-<li>👨‍💻 All of my projects are available at - https://github.com/Yashkhamkar</li>
+<li>👨‍💻 All of my projects are available at - https://portfolio-yashk.netlify.app/</li>
 <li>💬 Ask me about c++,DSA,MERN,java springboot</li>
 <li>📫 How to reach me yashkhamkar1100@gmail.com</li>
 <li>
