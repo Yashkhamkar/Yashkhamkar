@@ -22,7 +22,7 @@
 <li>💬 Ask me about C++,DSA,MERN,java springboot</li>
 <li>📫 How to reach me yashkhamkar1100@gmail.com</li>
 <li>
-  📄 My Resume- https://drive.google.com/file/d/1aHwI_VoSl9c9GZYO_K4BXqmjwyNRJZz_/view
+  📄 My Resume- https://drive.google.com/file/d/1ghpoBqdhxO2uH16i95XsW0GoeNABe1z8/view?usp=sharing
 </li>
 
 <li>⚡ Fun fact I like gaming 🎮</li>
